@@ -14,7 +14,7 @@ This report will propose future work that I will conduct for my graduate thesis.
 
 <p align = "center">
     
-![DryCreekFlow.png](attachment:5c8a2679-906f-44eb-bc5f-4b2abc1dd33f.png)
+![DryCreekFlow.png](DryCreekFlow.png)
     
     
 | <b>Fig.1 - </b> Con1E (blue) and Con1W (red) stream network maps. Both catchments are headwaters of the Dry Creek Experimental Watershed ([Dry Creek Data, Boise State University](https://www.boisestate.edu/drycreek/dry-creek-data/)). Flow start/stop data was collected through ArcGIS Field Maps then projected to stream networks using a 5m DEM for the Dry Creek Experimental Watershed.
@@ -38,7 +38,7 @@ The PROSPER Model used GIS-derived products as well as field observations (wet/d
 
 
 
-![Jaegeretal_ConceptualModel.png](attachment:9f9fc1d1-92c1-498b-ad8a-56ab968f3532.png)
+![Jaegeretal_ConceptualModel.png](Jaegeretal_ConceptualModel.png)
 
 | <b>Fig.2 - </b> Conceptual Map of PROSPER anaylsis and classification process. Created by Jaeger et al (2019). https://doi.org/10.1016/j.hydroa.2018.100005|
 
@@ -48,7 +48,7 @@ For the proposed project, the PROSPER model will not need calibration or manipul
 
 
     
-![DryCreek_Prosper.png](attachment:a4a3c3f9-2a74-41a0-9cc8-bcb91f39b910.png)
+![DryCreek_Prosper.png](DryCreek_Prosper.png)
 
 <p align = "center">
 | <b>Fig.3 - </b> PROSPER model SPCs stream data for the Con1E and Con1W catchment. Map of Dry Creek Expermimental Watershed relative to the PROSPER Study Area|
